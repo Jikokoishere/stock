@@ -1,92 +1,21 @@
 
-
-
-
-
-
-
-
-gestion de stock 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
+//gestion de stock 
 
 #include <stdio.h>
 #include <stdlib.h>
