@@ -1,5 +1,5 @@
 
-//gestion de stock 
+//gestion de stock par MOHAMED AYMEN CHAKRI 
 
 #include <stdio.h>
 #include <stdlib.h>
